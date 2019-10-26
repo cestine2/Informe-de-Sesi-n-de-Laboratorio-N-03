@@ -1,0 +1,479 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.10.9)  25 OCT 2019 19:45
+entering extended mode
+**"./Informe de sesion N°03.tex"
+("Informe de sesion N°03.tex"
+LaTeX2e <2018-12-01>
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty
+"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty
+"
+Package: babel 2019/07/19 3.33 The Babel package
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.de
+f"
+File: switch.def 2019/07/19 3.33 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg
+"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\spa
+nish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def
+"
+File: babel.def 2019/07/19 3.33 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.
+def")
+\bbl@dirlevel=\count89
+)
+\es@quottoks=\toks16
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx
+.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics
+.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
+"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\grap
+hics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdft
+ex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
+.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.
+sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex
+.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex
+.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count91
+\Gm@cntv=\count92
+\c@Gm@tempcnt=\count93
+\Gm@bindingoffset=\dimen106
+\Gm@wd@mp=\dimen107
+\Gm@odd@mp=\dimen108
+\Gm@even@mp=\dimen109
+\Gm@layoutwidth=\dimen110
+\Gm@layoutheight=\dimen111
+\Gm@layouthoffset=\dimen112
+\Gm@layoutvoffset=\dimen113
+\Gm@dimlist=\toks18
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
+.cfg"))
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count94
+\float@exts=\toks19
+\float@box=\box27
+\@float@everytoks=\toks20
+\@floatcapt=\box28
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.s
+ty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.s
+ty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.st
+y"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen114
+))
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen115
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count95
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count96
+\leftroot@=\count97
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count98
+\DOTSCASE@=\count99
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen116
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count100
+\c@MaxMatrixCols=\count101
+\dotsspace@=\muskip10
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks22
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks23
+\eqnshift@=\dimen117
+\alignsep@=\dimen118
+\tagshift@=\dimen119
+\tagwidth@=\dimen120
+\totwidth@=\dimen121
+\lineht@=\dimen122
+\@envbody=\toks24
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\stackrel
+.sty"
+Package: stackrel 2016/05/16 v1.3 Adding subscript option to stackrel (HO)
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcm
+ds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwar
+err.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluat
+ex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftex
+cmds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmd
+s.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow
+.sty"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip46
+\multirow@cntb=\count107
+\multirow@dima=\skip47
+\bigstrutjot=\dimen123
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\enumerate.s
+ty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks26
+) ("Informe de sesion N°03.aux"
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+)
+\openout1 = `"Informe de sesion N°03.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
+pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count108
+\scratchdimen=\dimen124
+\scratchbox=\box31
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen125
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks28
+)
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf
+-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.s
+ty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefi
+nekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoption
+s.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\EDWARD\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetk
+eys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<./images/logo.jpg, id=1, 401.5pt x 269.005pt>
+File: ./images/logo.jpg Graphic file (type jpg)
+<use ./images/logo.jpg>
+Package pdftex.def Info: ./images/logo.jpg  used on input line 25.
+(pdftex.def)             Requested size: 199.16928pt x 133.44725pt.
+[1
+
+{C:/Users/EDWARD/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/l
+ogo.jpg>] ("Informe de sesion N°03.toc"
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `"Informe de sesion N°03.toc"'.
+
+ [1]
+<images/1.png, id=11, 496.85625pt x 313.9228pt>
+File: images/1.png Graphic file (type png)
+<use images/1.png>
+Package pdftex.def Info: images/1.png  used on input line 91.
+(pdftex.def)             Requested size: 284.52756pt x 179.77132pt.
+<images/2.png, id=13, 468.24937pt x 78.2925pt>
+File: images/2.png Graphic file (type png)
+<use images/2.png>
+Package pdftex.def Info: images/2.png  used on input line 94.
+(pdftex.def)             Requested size: 284.52756pt x 47.57556pt.
+<images/3.png, id=14, 999.735pt x 545.03625pt>
+File: images/3.png Graphic file (type png)
+<use images/3.png>
+Package pdftex.def Info: images/3.png  used on input line 97.
+(pdftex.def)             Requested size: 426.79134pt x 232.68108pt.
+<images/4.png, id=15, 148.30406pt x 382.42876pt>
+File: images/4.png Graphic file (type png)
+<use images/4.png>
+Package pdftex.def Info: images/4.png  used on input line 100.
+(pdftex.def)             Requested size: 85.35826pt x 220.11656pt.
+ [1 <./images/1.png> <./images/2.png> <./images/3.png>]
+<images/5.png, id=22, 522.45187pt x 496.10344pt>
+File: images/5.png Graphic file (type png)
+<use images/5.png>
+Package pdftex.def Info: images/5.png  used on input line 103.
+(pdftex.def)             Requested size: 426.79134pt x 405.27075pt.
+<images/6.png, id=23, 652.68843pt x 481.8pt>
+File: images/6.png Graphic file (type png)
+<use images/6.png>
+Package pdftex.def Info: images/6.png  used on input line 106.
+(pdftex.def)             Requested size: 426.79134pt x 315.05566pt.
+ [2 <./images/4.png> <./images/5.png>]
+<images/7.png, id=29, 654.19406pt x 472.76625pt>
+File: images/7.png Graphic file (type png)
+<use images/7.png>
+Package pdftex.def Info: images/7.png  used on input line 109.
+(pdftex.def)             Requested size: 426.79134pt x 308.42699pt.
+<images/11.png, id=30, 974.13937pt x 504.38437pt>
+File: images/11.png Graphic file (type png)
+<use images/11.png>
+Package pdftex.def Info: images/11.png  used on input line 113.
+(pdftex.def)             Requested size: 426.79134pt x 220.98315pt.
+ [3 <./images/6.png> <./images/7.png>]
+<images/22.png, id=36, 871.75688pt x 505.89pt>
+File: images/22.png Graphic file (type png)
+<use images/22.png>
+Package pdftex.def Info: images/22.png  used on input line 116.
+(pdftex.def)             Requested size: 426.79134pt x 247.67212pt.
+<images/33.png, id=37, 870.25125pt x 503.63156pt>
+File: images/33.png Graphic file (type png)
+<use images/33.png>
+Package pdftex.def Info: images/33.png  used on input line 119.
+(pdftex.def)             Requested size: 426.79134pt x 246.9968pt.
+ [4 <./images/11.png> <./images/22.png>]
+<images/44.png, id=43, 563.10374pt x 295.1025pt>
+File: images/44.png Graphic file (type png)
+<use images/44.png>
+Package pdftex.def Info: images/44.png  used on input line 122.
+(pdftex.def)             Requested size: 455.24408pt x 238.5769pt.
+<images/55.png, id=44, 867.99281pt x 527.72156pt>
+File: images/55.png Graphic file (type png)
+<use images/55.png>
+Package pdftex.def Info: images/55.png  used on input line 125.
+(pdftex.def)             Requested size: 455.24408pt x 276.7842pt.
+ [5 <./images/33.png> <./images/44.png>]
+<images/66.png, id=51, 968.11688pt x 516.42938pt>
+File: images/66.png Graphic file (type png)
+<use images/66.png>
+Package pdftex.def Info: images/66.png  used on input line 128.
+(pdftex.def)             Requested size: 455.24408pt x 242.84792pt.
+<images/77.png, id=52, 1026.83624pt x 489.32813pt>
+File: images/77.png Graphic file (type png)
+<use images/77.png>
+Package pdftex.def Info: images/77.png  used on input line 131.
+(pdftex.def)             Requested size: 455.24408pt x 216.9402pt.
+ [6 <./images/55.png> <./images/66.png>]
+<images/88.png, id=58, 1029.09468pt x 491.58656pt>
+File: images/88.png Graphic file (type png)
+<use images/88.png>
+Package pdftex.def Info: images/88.png  used on input line 134.
+(pdftex.def)             Requested size: 455.24408pt x 217.4689pt.
+<images/99.png, id=59, 984.67876pt x 503.63156pt>
+File: images/99.png Graphic file (type png)
+<use images/99.png>
+Package pdftex.def Info: images/99.png  used on input line 137.
+(pdftex.def)             Requested size: 455.24408pt x 232.84142pt.
+ [7 <./images/77.png> <./images/88.png>]
+<images/111.png, id=65, 971.88094pt x 517.18219pt>
+File: images/111.png Graphic file (type png)
+<use images/111.png>
+Package pdftex.def Info: images/111.png  used on input line 140.
+(pdftex.def)             Requested size: 455.24408pt x 242.25493pt.
+<images/222.png, id=66, 377.91188pt x 346.29375pt>
+File: images/222.png Graphic file (type png)
+<use images/222.png>
+Package pdftex.def Info: images/222.png  used on input line 143.
+(pdftex.def)             Requested size: 284.52756pt x 260.72362pt.
+ [8 <./images/99.png> <./images/111.png>]
+<images/333.png, id=72, 981.6675pt x 527.72156pt>
+File: images/333.png Graphic file (type png)
+<use images/333.png>
+Package pdftex.def Info: images/333.png  used on input line 146.
+(pdftex.def)             Requested size: 455.24408pt x 244.72769pt.
+ [9 <./images/222.png> <./images/333.png>] ("Informe de sesion N°03.aux"
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+) ) 
+Here is how much of TeX's memory you used:
+ 3746 strings out of 492895
+ 53705 string characters out of 3123268
+ 135353 words of memory out of 3000000
+ 7580 multiletter control sequences out of 15000+200000
+ 8568 words of font info for 31 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,5n,31p,264b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/EDWARD/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb><C:/Users/EDWARD/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr12.pfb>
+Output written on "Informe de sesion N°03.pdf" (11 pages, 1159521 bytes).
+PDF statistics:
+ 86 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+
